@@ -4,6 +4,17 @@
 
 KeenKeeper is a web application designed to help you maintain meaningful relationships with your friends. By tracking your interactions, setting relationship goals, and providing insightful analytics, KeenKeeper ensures you never lose touch with the people who matter most.
 
+## 🎯 Purpose
+
+The purpose of KeenKeeper is to provide a dedicated space for managing and nurturing your social circle. It acts as a personal CRM for friendships, helping users prioritize their most important connections through organized data and proactive reminders.
+
+## 💡 Problem Solved
+
+In today's fast-paced world, it's easy for even the best friendships to fade due to lack of consistent contact. KeenKeeper addresses the "out of sight, out of mind" problem by:
+- **Tracking Silence:** Clearly showing how many days have passed since the last contact.
+- **Setting Intentions:** Allowing users to set specific contact frequency goals.
+- **Visualizing Habits:** Providing analytics to show if you are meeting your social goals or if certain relationships need more attention.
+
 ---
 
 ## 🚀 Key Features
